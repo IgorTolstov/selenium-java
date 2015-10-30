@@ -12,6 +12,7 @@
       <artifactId>testng</artifactId>
       <version>6.9.4</version>
     </dependency>
+    
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
@@ -112,7 +113,7 @@
         <site.url>http://prodhost/</site.url>
         <browser.name>firefox</browser.name>
         <browser.version></browser.version>
-        <browser.platform></browser.platform>
+        <browser.platform> </browser.platform>
       </properties>
     </profile>
     <profile>
